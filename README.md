@@ -50,7 +50,6 @@
 <div align="center">
   <h3>⚡ Featured Repositories</h3>
   
-  <!-- استدعاء تلقائي لبطاقة مشروعك الأساسي -->
   <a href="https://github.com/BMA2U/BMA2U" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=BMA2U&repo=BMA2U&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8&icon_color=A78BFA&hide_border=true&border_radius=10" />
@@ -60,7 +59,6 @@
   </a>
 </div>
 
-<!-- المساحة المخصصة للتحديث التلقائي المباشر لآخر المستودعات عبر GitHub Actions -->
 <!-- RECENT_REPOS:START -->
 <!-- RECENT_REPOS:END -->
 
@@ -71,13 +69,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BMA2U/BMA2U/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BMA2U/BMA2U/output/snake-light.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/BMA2U/BMA2U/output/snake-dark.svg" alt="Contribution Snake" />
+    <img alt="Snake eating my contributions" width="100%" src="https://raw.githubusercontent.com/BMA2U/BMA2U/output/snake-light.svg" />
   </picture>
 </div>
 
 <br/>
 
-<!-- ===== PROJECTS BANNER (FROM YOUR PROJECTS FOLDER) ===== -->
+<!-- ===== PROJECTS BANNER ===== -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BMA2U/BMA2U/main/Projects/projects.svg" />
