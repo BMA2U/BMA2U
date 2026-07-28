@@ -34,3 +34,4 @@ gen_particles.py
 fix_svgs.py
 update_bg.py
 verify.py
+gen_image2.py
