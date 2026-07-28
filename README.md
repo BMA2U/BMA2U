@@ -47,7 +47,7 @@
 <br/>
 <br/>
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/BMA2U/BMA2U/Projects/projects.svg" alt="Projects" />
+<img width="100%" src="https://raw.githubusercontent.com/BMA2U/BMA2U/main/Projects/projects.svg" alt="Projects" />
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
