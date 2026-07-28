@@ -26,8 +26,6 @@ desktop.ini
 # Temp/scratch files
 *.log
 *.tmp
-out/
-merged.json
 
 # Scripts (not part of the profile)
 gen_particles.py
