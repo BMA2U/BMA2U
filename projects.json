@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Almrsal Web Scraper & Dataset Pipeline",
+    "repo": "BMA2U/Almrsal-Web-Scraper-Dataset-Pipeline",
+    "logo": "logo.png",
+    "description": "An intelligent web scraping and dataset collection pipeline for AI models and data analytics.",
+    "tags": ["Python", "Dataset", "Scraping", "AI"]
+  },
+  {
+    "name": "Restaurant POS System",
+    "repo": "BMA2U/restaurant-pos-initial",
+    "logo": "claster.png",
+    "description": "A feature-rich Point of Sale management system designed for restaurant operations.",
+    "tags": ["C#", "WPF", "SQL", "EF Core"]
+  }
+]

@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp/scratch files
+*.log
+*.tmp
+out/
+merged.json
+
+# Scripts (not part of the profile)
+gen_particles.py
+fix_svgs.py
+update_bg.py
+verify.py
