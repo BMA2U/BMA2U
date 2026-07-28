@@ -47,7 +47,11 @@
 <br/>
 <br/>
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/BMA2U/BMA2U/main/Projects/projects.svg" alt="Projects" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BMA2U/BMA2U/main/Projects/projects.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BMA2U/BMA2U/main/Projects/projects-light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/BMA2U/BMA2U/main/Projects/projects.svg" alt="Projects" />
+  </picture>
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
