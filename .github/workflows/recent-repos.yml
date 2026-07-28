@@ -1,0 +1,19 @@
+name: Update Recent Repositories List
+
+on:
+  schedule:
+    # يعمل تلقائياً كل 24 ساعة
+    - cron: '0 0 * * *'
+  workflow_dispatch: # إمكانية تشغيله يدوياً
+
+jobs:
+  update-readme:
+    name: Update Readme with latest Repos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: readme-bot/recent-repos@v1.4.1
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          user: 'BMA2U'
+          limit: 5
