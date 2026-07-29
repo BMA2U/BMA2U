@@ -16,7 +16,6 @@
   </a>
 </div>
 
-<br/>
 
 <!-- ===== GITHUB STREAK STATS ===== -->
 <div align="center">
@@ -29,7 +28,6 @@
   </a>
 </div>
 
-<br/>
 
 <!-- ===== CORE METRICS & LANGUAGES ===== -->
 <div align="center">
@@ -44,7 +42,6 @@
   </picture>
 </div>
 
-<br/><br/>
 
 <!-- ===== DYNAMIC REPOSITORIES LIST ===== -->
 <div align="center">
@@ -62,7 +59,6 @@
 <!-- RECENT_REPOS:START -->
 <!-- RECENT_REPOS:END -->
 
-<br/>
 
 <!-- ===== CONTRIBUTION SNAKE ANIMATION ===== -->
 <div align="center">
@@ -84,7 +80,6 @@
   </picture>
 </div>
 
-<br/>
 
 <!-- ===== CONNECT & SOCIAL BADGES ===== -->
 <div align="center">
