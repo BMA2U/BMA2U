@@ -72,6 +72,7 @@
 <br/>
 
 <!-- ===== PROJECTS BANNER ===== -->
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BMA2U/BMA2U/main/Projects/projects.svg" />
@@ -79,7 +80,7 @@
     <img width="100%" src="https://raw.githubusercontent.com/BMA2U/BMA2U/main/Projects/projects.svg" alt="Projects Overview" />
   </picture>
 </div>
-
+-->
 
 <!-- ===== CONNECT & SOCIAL BADGES ===== -->
 <div align="center">
